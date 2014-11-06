@@ -1,0 +1,9 @@
+bootdelay=10
+autoload=no
+autostart=no
+ethaddr=12:34:56:78:99:aa
+serverip=10.180.35.190
+ipaddr=10.180.35.244
+netmask=255.255.255.0
+bootcmd=
+bootargs=
